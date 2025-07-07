@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bashexport COMMANDLINE_ARGS="--api"
 #########################################################
 # Uncomment and change the variables below to your need:#
 #########################################################
